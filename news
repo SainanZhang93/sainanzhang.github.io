@@ -1,0 +1,170 @@
+<!doctype html>
+
+<html lang="en">
+
+<head>
+  <link rel="shortcut icon" type="image/png" href="https://logoforbrowser.png">
+  <meta charset="utf-8">
+
+  <title>Biomechatronics and Intelligent Robotics</title>
+  <meta name="description" content="">
+  <meta name="keywords" content="">
+
+  <link rel="stylesheet" href="css/styles.css">
+</head>
+<style>
+  table {
+    width: 60%;
+    /*height: 300px;*/
+    text-align: center;
+    /*table-layout: fixed;*/
+    /*font-size: 100px;*/
+  }
+</style>
+
+<body>
+
+  <header>
+    <div class="view1">
+      <a href="index.html">
+        <img id="logo" src="img/Logo_Simple.png" alt="">
+      </a>
+      <div id="labname">
+        Biomechatronics and Intelligent Robotics Lab
+      </div>
+
+    </div>
+  </header>
+
+  <nav>
+    <div class="navitems">
+      <a href="index.html">Home</a>
+      <a href="research.html">Research</a>
+      <span><a href="robots.html"><b>Robots</b></a></span>
+      <a href="people.html">People</a>
+      <a href="publications.html">Publications</a>
+      <a href="news.html"><b>News</b></a>
+      <a href="joining.html">Opportunity</a>
+      <a href="https://assistiverobotcenter.github.io">Assistive Robot Center</a>
+      <div class="dropdown">
+        <a href="#" class="dropbtn">Workshop</a>
+        <div class="dropdown-content">
+          <a href="2021iros-workshop.html">IROS 2021</a>
+          <a href="2020iros-mechanismdesign-workshop.html">IROS 2020</a>
+          <!--<a href="mechanismdesign-2020icra-workshop.html">ICRA 2020</a>-->
+          <!--<a href="aim2020.html">AIM 2020</a>-->
+          <a href="aim-soft-robot-workshop.html">AIM Soft Robot Workshop 2020</a>
+          <a href="aim-mechatronics-for-infectious-diseases.html">AIM Mechatronics 4 Infectious Diseases Special Session
+            2020</a>
+
+          <a href="biorob2020.html">BioRob Workshop 2020</a>
+          <a href="softroboticsworkshop.html">Soft Robot Workshop 2019</a>
+          <a href="https://sites.google.com/view/aim2019-soft">AIM 2019</a>
+
+        </div>
+      </div>
+      <a href="site/index.html">Wiki</a>
+    </div>
+  </nav>
+
+
+  <div class="content clearfix">
+
+    <!-- starting page content-->
+
+    <article class="publication-detail">
+
+      <!--<p>&nbsp;</p>
+      <p><strong>May 2020 </strong></p>
+
+        <p>Dr. Hao Su and lab members attended the <a href="https://www.dynamicwalking.org/index.php/dw/2020/schedConf/program">Dynamic Walking 2020</a> on the virtual conference to present quasi-direct drive portable knee exoskeleton and hip exoskeleton.
+          <br>1. <a href="https://www.seas.upenn.edu/~posa/DynamicWalking2020/722-1092-1-RVP.pdf">A Lightweight and High Torque Hip Exoskeleton with Quasi-Direct Drive Actuation for Independent Living Assistance</a>
+          <br>2. <a href="https://www.seas.upenn.edu/~posa/DynamicWalking2020/732-1107-1-RVP.pdf">Lightweight, Backdrivable, and High-Bandwidth Knee Exoskeleton with Quasi-Direct Drive Actuation</a>
+        </a></p>
+        <br>-->
+      <!--
+    <p>&nbsp;</p>
+      <p><strong>May 2020 </strong></p>
+      <p>These are the posters that we showed at <a href="https://www.dynamicwalking.org/index.php/dw/2020/schedConf/program">Dynamic Walking</a>. <br>
+        1. <a href="https://www.seas.upenn.edu/~posa/DynamicWalking2020/722-1092-1-RV.pdf">Lightweight and High Torque Hip Exoskeleton with Quasi-Direct Drive Actuation</a>
+        <object data="img/Paper/2020DMD-Hip Exoskeleton with Quasi-Direct Drive Actuation_Poster.pdf" type="application/pdf" width="1000" height="700">
+          <embed src="img/Paper/2020DMD-Hip Exoskeleton with Quasi-Direct Drive Actuation_Poster.pdf">
+              <!--<p>This browser does not support PDFs. Please download the PDF to view it: <a href="http://example.com/yourpdf.pdf">Download PDF</a>.</p>-->
+      <!--</embed>
+      </object>-->
+
+      <!--<br><br><br>
+      2. <a href="https://www.seas.upenn.edu/~posa/DynamicWalking2020/732-1107-1-RV.pdf">Lightweight, Backdrivable, and High-Bandwidth Knee Exoskeleton with Quasi-Direct Drive Actuation</a>
+      <object data="img/Paper/2020DMD-Knee Exoskeleton with Quasi-Direct Drive Actuation_Poster.pdf" type="application/pdf" width="1000" height="700">
+        <embed src="img/Paper/2020DMD-Knee Exoskeleton with Quasi-Direct Drive Actuation_Poster.pdf">-->
+      <!--<p>This browser does not support PDFs. Please download the PDF to view it: <a href="http://example.com/yourpdf.pdf">Download PDF</a>.</p>-->
+      <!--</embed>
+    </object>
+        </p>
+        <br>-->
+
+      <!--<iframe src="img/Paper/2020DMD-Knee Exoskeleton with Quasi-Direct Drive Actuation_Poster.pdf" width="1000" height="700" frameborder="0"></iframe>-->
+
+      <!--<p>&nbsp;</p>
+      <p><strong>May 2020 </strong></p>
+      <p>Our lab won the second prize of <a href="http://www.dmd.umn.edu/2020/three-in-five.html">Three in Five Competition</a> on ASME Annual Design of Medical Devices Conference.
+      </p>
+        <br>-->
+      <p>&nbsp;</p>
+      <p><strong>Febraury, 2024 </strong></p>
+      <p> Dr. Sainan (Selena) Zhang, who was a Ph.D. student supervised by Prof. Hao Su, and now a postdoctoral research
+        scholar working in the BIRO lab, proudly announces our paper titled
+        "Actuator Optimization and Deep Learning-Based Control of Pediatric Knee Exoskeleton for Community-Based
+        Mobility Assistance" has been officially published in the respected journal "Mechatronics" (Elsevier)! This
+        collaborative effort
+        explores cutting-edge advancements in optimizing actuators and applying deep learning techniques to control
+        pediatric knee exoskeletons for community-based mobility assistance. </p>
+      <!-- <br>-->
+      <p>&nbsp;</p>
+
+      <center>
+        <img src="img/news/Mechtronics_Figure1.png" height="200">
+        <img src="img/news/A photo of us with NIH collaborators.png" height="200">
+        <img src="img/news/SainanZhang.jpg" height="200">
+      </center>
+      <center><iframe width="560" height="315" src="https://www.youtube.com/embed/6CT3I20nbys?si=uZwANVaC1G26cVVN"
+          title="YouTube video player" frameborder="0"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+          referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></center>
+
+
+  
+      <!--<p>&nbsp;</p>
+      <p><strong>May 2020 </strong></p>
+      <p>Our lab won the second prize of <a href="http://www.dmd.umn.edu/2020/three-in-five.html">Three in Five Competition</a> on ASME Annual Design of Medical Devices Conference.
+      </p>
+        <br>-->
+      <p>&nbsp;</p>
+      <p><strong>November, 2023 </strong></p>
+      <p> Congratulations！Sainan Zhang, a Ph.D. student at the BIRO Lab, has successfully defended her doctoral dissertation. 
+        The dissertation defense, titled "Actuator Optimization and Control of Pediatric Knee Exoskeleton for Community-based Mobility Assistance: Lighter, More Affordable, and More Stable," 
+        marks a significant milestone in Zhang's academic journey, showcasing her dedication and expertise in the field. Zhang expressed her gratitude to her mentor, Professor Hao Su, 
+        for his guidance and support throughout her doctoral studies. The BIRO Lab extends heartfelt congratulations to Zhang on this remarkable accomplishment, 
+        wishing her continued success in her future endeavors. </p>
+      <!-- <br>-->
+      <p>&nbsp;</p>
+
+
+      
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+</body>
+
+</html>
